@@ -1,0 +1,2 @@
+problem_1, problem_2, problem_3 are the files containing the work specific to each hw problem. 
+The reference plots are there to proving the overlay on the plots to ensure the codes accuracy (they dont need to be run for the overlay, just in the same folder to be called by the main problem scripts). 
